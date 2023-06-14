@@ -1,0 +1,117 @@
+@media (min-width: 768px) {
+  .bg-container {
+    background-color: black;
+    font-family: 'Roboto';
+    color: white;
+    height: 100vh;
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .image {
+    height: 250px;
+    width: 500px;
+  }
+  .heading {
+    font-size: 30px;
+  }
+  .speed-para {
+    font-size: 20px;
+  }
+  .speed {
+    font-size: 20px;
+  }
+  .para {
+    font-size: 12px;
+  }
+  .btn-container {
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+  }
+  .acc-btn {
+    color: white;
+    background-color: #0b69ff;
+    border-color: #0b69ff;
+    cursor: pointer;
+    outline: none;
+    width: 90px;
+    height: 30px;
+    border-radius: 5px;
+    font-size: 12px;
+    margin-right: 20px;
+  }
+  .breaks-btn {
+    color: white;
+    background-color: black;
+    border-color: white;
+    cursor: pointer;
+    outline: none;
+    width: 90px;
+    height: 30px;
+    border-radius: 5px;
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 767px) {
+  .bg-container {
+    background-color: black;
+    font-family: 'Roboto';
+    color: white;
+    height: 100vh;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .image {
+    height: 250px;
+    width: 500px;
+  }
+  .heading {
+    font-size: 30px;
+  }
+  .speed-para {
+    font-size: 20px;
+  }
+  .speed {
+    font-size: 20px;
+  }
+  .para {
+    font-size: 12px;
+  }
+  .btn-container {
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+  }
+  .acc-btn {
+    color: white;
+    background-color: #0b69ff;
+    border-color: #0b69ff;
+    cursor: pointer;
+    outline: none;
+    width: 90px;
+    height: 30px;
+    border-radius: 5px;
+    font-size: 12px;
+    margin-right: 20px;
+  }
+  .breaks-btn {
+    color: white;
+    background-color: black;
+    border-color: white;
+    cursor: pointer;
+    outline: none;
+    width: 90px;
+    height: 30px;
+    border-radius: 5px;
+    font-size: 12px;
+  }
+}
